@@ -1,0 +1,5 @@
+config.ini
+*.pyc
+*.csv
+*.h5
+*.pkl
