@@ -14,3 +14,6 @@
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
+
+## This is new clone of this repository...
+Next version will be published soon.
