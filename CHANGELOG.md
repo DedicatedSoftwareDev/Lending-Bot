@@ -17,3 +17,4 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## This is new clone of this repository...
 Next version will be published soon.
+There are 3 collaborators now.
